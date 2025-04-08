@@ -203,13 +203,6 @@ const Credentials = () => {
             <button type="submit" className="crediantials-btn" disabled={loginIsSubmitting}>
               {loginIsSubmitting ? "Logging in..." : "Login"}
             </button>
-            <span>or</span>
-            <div className="crediantials-social-login">
-              <button className="crediantials-social-login-button">
-                <FaGoogle />
-                <span>Login with Google</span>
-              </button>
-            </div>
           </form>
         </div>
         <div className="crediantials-form-box crediantials-register">

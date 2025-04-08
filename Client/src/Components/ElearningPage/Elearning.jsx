@@ -52,7 +52,7 @@ const Elearning = () => {
           </button>
           <div
             className="learningPageNavbar-circulardiv"
-            onClick={() => navigate(`/profile/${userId}`)}
+            onClick={() => navigate(`/profile`)}
           >
             <FaUser size={20} />
           </div>
