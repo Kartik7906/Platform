@@ -7,8 +7,9 @@ router.post('/', (req, res) => {
         res.clearCookie('token', {
             httpOnly: true,
             secure: process.env.NODE_ENV === 'production',
-            sameSite: 'strict',
+            sameSite: 'lax',
             path: '/',
+            domain: process.env.NODE_ENV === "production" ? ".yourdomain.com" : undefined,
             expires: new Date(0) // Set expiration to past date to remove the cookie
         });
 

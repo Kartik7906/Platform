@@ -1,0 +1,243 @@
+[
+    {
+      "id": 1,
+      "title": "My Daily Routine",
+      "prompt": "Speak about the things you do every day from morning to night. Mention your habits, work, meals, and relaxation time.",
+      "standardAnswer": [
+        "Wake up early and complete morning hygiene and exercise.",
+        "Have a healthy breakfast and prepare for the day.",
+        "Attend work or school and focus on daily tasks.",
+        "Take a break at lunchtime and resume afternoon responsibilities.",
+        "Spend the evening relaxing, having dinner, and winding down."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "My Favorite Food",
+      "prompt": "Describe a food you like the most. Mention its taste, ingredients, and why you like it.",
+      "standardAnswer": [
+        "Identify the food and list its main ingredients.",
+        "Describe the unique taste and aroma of the dish.",
+        "Explain its texture and appearance.",
+        "Mention when the food is typically enjoyed.",
+        "State why it is a favorite, such as comfort or excitement in its flavor."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "A Special Day in My Life",
+      "prompt": "Describe one of a special day in your life. Include activities and experiences on that day.",
+      "standardAnswer": [
+        "Mention the date or occasion that makes the day special.",
+        "Describe memorable events that happened in the morning.",
+        "Outline key activities or adventures during the afternoon.",
+        "Highlight important moments from the evening.",
+        "Summarize the overall feelings and impact of that day."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "My Best Friend",
+      "prompt": "Speak about your best friend, their name, appearance, qualities, and why you like them.",
+      "standardAnswer": [
+        "Introduce your best friend by name.",
+        "Describe their physical appearance and style.",
+        "List qualities that make them a good friend.",
+        "Give examples of shared experiences or memorable moments.",
+        "Explain why their friendship is valuable and meaningful."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "My Hobby",
+      "prompt": "Describe your favorite activity that you enjoy doing in your free time.",
+      "standardAnswer": [
+        "Name your hobby and briefly explain what it is.",
+        "Describe how and when you engage in this activity.",
+        "Explain what makes the hobby interesting or fun.",
+        "Mention any skills or creativity that it develops.",
+        "Express overall enjoyment and why it’s important to you."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "My Favorite Festival",
+      "prompt": "Speak about a festival you celebrate and why it is special for you.",
+      "standardAnswer": [
+        "Name the festival and briefly explain its significance.",
+        "Describe the traditional activities and celebrations.",
+        "Mention special foods, decorations, or rituals involved.",
+        "Explain how family and community participate.",
+        "Highlight why the festival holds personal or cultural importance."
+      ]
+    },
+    {
+      "id": 7,
+      "title": "A Memorable Childhood Memory",
+      "prompt": "Speak about a special moment from your childhood that you still remember.",
+      "standardAnswer": [
+        "Set the scene by naming the event and location.",
+        "Identify who was involved in the memory.",
+        "Describe what happened during the event.",
+        "Express the emotions felt during that moment.",
+        "Explain how this memory has influenced you or stayed with you over time."
+      ]
+    },
+    {
+      "id": 8,
+      "title": "My Favorite Season",
+      "prompt": "Describe the season you like the most and why.",
+      "standardAnswer": [
+        "Identify your favorite season by name.",
+        "Describe the typical weather and natural beauty of the season.",
+        "List seasonal activities that you enjoy.",
+        "Highlight visual and sensory details like colors or sounds.",
+        "Explain the personal connection or feelings the season evokes."
+      ]
+    },
+    {
+      "id": 9,
+      "title": "My Dream Job",
+      "prompt": "Speak about the job you want in the future and why it interests you.",
+      "standardAnswer": [
+        "State the job title or field you are aiming for.",
+        "Describe the main responsibilities or tasks of that job.",
+        "Explain how your skills and interests align with the job.",
+        "Mention the potential impact of the job on your career and life.",
+        "Summarize why this job represents your dream career."
+      ]
+    },
+    {
+      "id": 10,
+      "title": "A Place I Want to Visit",
+      "prompt": "Speak about a place you want to travel to and why.",
+      "standardAnswer": [
+        "Identify the destination and its location.",
+        "Describe prominent landmarks and attractions at the place.",
+        "Explain the cultural or historical significance of the destination.",
+        "Mention activities or experiences you look forward to having.",
+        "State why visiting this place is a personal dream or goal."
+      ]
+    },
+    {
+      "id": 11,
+      "title": "My Family",
+      "prompt": "Speak about your family members and their roles.",
+      "standardAnswer": [
+        "Introduce the members of your family.",
+        "Describe each member's role or relationship in the family.",
+        "Share examples of family traditions or shared activities.",
+        "Mention how support and love are demonstrated within the family.",
+        "Explain the importance of family in your life."
+      ]
+    },
+    {
+      "id": 12,
+      "title": "A Special Day with My Parents",
+      "prompt": "Describe a memorable day you spent with your parents.",
+      "standardAnswer": [
+        "Describe the planned or spontaneous activity of the day.",
+        "Mention specific moments that made the day memorable.",
+        "Detail shared conversations or emotional interactions.",
+        "Outline any unique events or surprises during the day.",
+        "Reflect on how the day strengthened the bond with your parents."
+      ]
+    },
+    {
+      "id": 13,
+      "title": "The Person I Admire the Most",
+      "prompt": "Speak about someone who inspires you.",
+      "standardAnswer": [
+        "Identify the person and explain their background.",
+        "Highlight key qualities that make this person admirable.",
+        "Describe a specific action or achievement that inspires you.",
+        "Explain how they have influenced your life or decisions.",
+        "Summarize the overall impact of their example on you."
+      ]
+    },
+    {
+      "id": 14,
+      "title": "My Role Model",
+      "prompt": "Describe someone you look up to and want to be like.",
+      "standardAnswer": [
+        "Introduce your role model by name and profession.",
+        "List the admirable qualities and values they possess.",
+        "Describe challenges they have overcome in their life.",
+        "Explain how their actions guide or inspire your own behavior.",
+        "Summarize the lessons learned from observing their example."
+      ]
+    },
+    {
+      "id": 15,
+      "title": "A Fun Day with My Siblings",
+      "prompt": "Speak about an enjoyable day spent with your brother or sister.",
+      "standardAnswer": [
+        "Describe the setting and activities of the day.",
+        "Share fun moments or games played with your siblings.",
+        "Highlight any shared jokes or memorable interactions.",
+        "Detail outdoor or indoor activities that made it special.",
+        "Explain how the experience strengthened your sibling bond."
+      ]
+    },
+    {
+      "id": 16,
+      "title": "How I Help My Family at Home",
+      "prompt": "Describe how you assist your family with daily chores.",
+      "standardAnswer": [
+        "List the daily chores or tasks you perform at home.",
+        "Explain your role in keeping the household organized.",
+        "Highlight teamwork and shared responsibilities with family.",
+        "Describe how your contributions benefit the entire family.",
+        "Express personal satisfaction from helping out at home."
+      ]
+    },
+    {
+      "id": 17,
+      "title": "My Grandparents’ Stories",
+      "prompt": "Speak about a story your grandparents told you.",
+      "standardAnswer": [
+        "Introduce your grandparent and mention the story’s context.",
+        "Summarize the main events or message of the story.",
+        "Highlight any moral or lesson conveyed through the tale.",
+        "Describe how the story made you feel or think differently.",
+        "Explain the lasting impact or influence of the story on you."
+      ]
+    },
+    {
+      "id": 18,
+      "title": "My Favorite Family Tradition",
+      "prompt": "Describe a tradition in your family and why you love it.",
+      "standardAnswer": [
+        "Identify the family tradition and its origin.",
+        "Describe the activities or events that take place.",
+        "Explain how the tradition brings family members together.",
+        "Highlight any special food, decorations, or rituals involved.",
+        "Express the emotional significance and joy the tradition brings."
+      ]
+    },
+    {
+      "id": 19,
+      "title": "My School Days",
+      "prompt": "Speak about your school memories, teachers, and friends.",
+      "standardAnswer": [
+        "Describe the general atmosphere and environment at school.",
+        "Mention memorable subjects, teachers, or classes.",
+        "List fun or challenging experiences with friends.",
+        "Highlight specific events or activities that stood out.",
+        "Explain how these experiences helped shape your personal growth."
+      ]
+    },
+    {
+      "id": 20,
+      "title": "The Best Teacher I Ever Had",
+      "prompt": "Speak about a teacher who inspired you the most.",
+      "standardAnswer": [
+        "Introduce the teacher by name and subject taught.",
+        "Describe their teaching style and mannerisms.",
+        "Highlight specific qualities or actions that inspired you.",
+        "Explain the impact they had on your academic performance.",
+        "Summarize how their mentorship influenced your future goals."
+      ]
+    }
+  ]
+  

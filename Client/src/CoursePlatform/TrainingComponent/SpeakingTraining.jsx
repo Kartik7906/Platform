@@ -1305,49 +1305,6 @@ const EnhancedScoreBreakdown = ({ scoreData }) => {
       const date = new Date(dateString);
       return date.toLocaleDateString() + ' ' + date.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
     };
-    
-    // return (
-    //   <div className="speaking-history-section">
-    //     <div className="speaking-history-header">
-    //       <h3>Previous Attempts</h3>
-    //       {bestAttempt && (
-    //         <div className="speaking-best-attempt-badge">
-    //           Best Score: {Math.round((bestAttempt.percentage_score || bestAttempt.score) / 100 * 9)}/9 
-    //           ({bestAttempt.percentage_score || bestAttempt.score}%)
-    //         </div>
-    //       )}
-    //     </div>
-        
-    //     <div className="speaking-attempt-timeline">
-    //       {attemptHistory.slice(0, 5).map((attempt, index) => (
-    //         <div 
-    //           key={index}
-    //           className={`speaking-attempt-item ${
-    //             bestAttempt && 
-    //             (attempt.timestamp === bestAttempt.timestamp || 
-    //             attempt.date === bestAttempt.date) ? 'best-attempt' : ''
-    //           }`}
-    //         >
-    //           <div className="speaking-attempt-date">
-    //             {formatDate(attempt.timestamp || attempt.date)}
-    //           </div>
-    //           <div className="speaking-attempt-score">
-    //             <strong>{Math.round(((attempt.percentage_score || attempt.score) / 100) * 9)}/9</strong>
-    //             <span className="speaking-attempt-percentage">
-    //               ({attempt.percentage_score || attempt.score}%)
-    //             </span>
-    //           </div>
-    //           <div className="speaking-attempt-title">{attempt.title}</div>
-    //           {bestAttempt && 
-    //            (attempt.timestamp === bestAttempt.timestamp || 
-    //             attempt.date === bestAttempt.date) && (
-    //             <div className="speaking-best-indicator">Best</div>
-    //           )}
-    //         </div>
-    //       ))}
-    //     </div>
-    //   </div>
-    // );
   };
 
   return (
