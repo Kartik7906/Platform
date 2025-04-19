@@ -1,80 +1,190 @@
 {
   "title": "Bank Terminologies",
-  "introduction": "Understanding common banking terms and detailed financial terminologies is essential for effective communication in the financial services industry. This module covers account types, common banking terms, and a comprehensive list of abbreviations and their explanations.",
+  "introduction": "Understanding common banking terminology and processes is essential for effective financial communication. This module covers the role of the RBI, key transaction terms, account types, payment systems, financial concepts, loan products, other terminologies, and commonly used abbreviations.",
   "sections": [
+    {
+      "id": "rbi-role",
+      "title": "RBI and its Role",
+      "content": [
+        {
+          "type": "text",
+          "value": "The Reserve Bank of India (RBI) is India's central bank. It's responsible for the country's currency, banking, and financial system, by providing loans, accepting deposits, and offering other banking services."
+        },
+        {
+          "type": "subheading",
+          "value": "Role of RBI"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Controls Money Supply – Manages how much money is in the economy to prevent inflation or recession.",
+            "Regulates Banks – Ensures banks work properly and follow rules.",
+            "Issues Currency – Prints and manages Indian Rupee notes (except ₹1 notes, issued by the government).",
+            "Manages Interest Rates – Decides key rates like the Repo Rate, which affects loan and deposit rates.",
+            "Foreign Exchange Control – Manages foreign currency flow and exchange rates."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "basic-transaction-terms",
+      "title": "Basic Transaction Terms",
+      "content": [
+        {
+          "type": "subheading",
+          "value": "Debit"
+        },
+        {
+          "type": "text",
+          "value": "Money going out of the account."
+        },
+        {
+          "type": "text",
+          "value": "Example: You go to a grocery store and buy items worth ₹500 using your bank account."
+        },
+        {
+          "type": "list",
+          "items": [
+            "When the payment is made, ₹500 is deducted (debited) from your account.",
+            "Your bank statement will show: Debit ₹500 – Grocery Purchase."
+          ]
+        },
+        {
+          "type": "subheading",
+          "value": "Credit"
+        },
+        {
+          "type": "text",
+          "value": "Money getting into the account."
+        },
+        {
+          "type": "text",
+          "value": "Example: Your salary is ₹50,000; the money will be sent from your company to your bank account."
+        }
+      ]
+    },
     {
       "id": "account-types",
       "title": "Account Types",
       "content": [
         {
+          "type": "subheading",
+          "value": "SB/ Savings Account"
+        },
+        {
           "type": "text",
-          "value": "Banks offer various types of accounts to meet different customer needs and financial goals."
+          "value": "A savings account is a bank account where people save money and earn interest. It is meant for individuals who want to keep their money safe while earning interest on their savings."
+        },
+        {
+          "type": "text",
+          "value": "Example: You open a savings account at a bank and deposit ₹10,000."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Your money stays safe, and the bank pays you interest on your balance.",
+            "If you need money, you can withdraw from your savings account anytime (from the bank or ATM)."
+          ]
         },
         {
           "type": "subheading",
-          "value": "Savings Account"
+          "value": "CB/ Current Account"
         },
         {
           "type": "text",
-          "value": "A basic deposit account that earns interest, designed for saving money rather than frequent transactions."
+          "value": "A current account is a type of bank account designed for businesses and individuals who need to do frequent and unlimited transactions and large volumes of transactions (debit and credit)."
+        },
+        {
+          "type": "text",
+          "value": "Example: A shop owner opens a current account to manage daily business transactions."
+        },
+        {
+          "type": "list",
+          "items": [
+            "He deposits ₹1,00,000 and makes multiple transactions, like paying suppliers and receiving customer payments.",
+            "The amount you have in the current account will not earn interest."
+          ]
         },
         {
           "type": "subheading",
-          "value": "Current Account"
+          "value": "Individual Account"
         },
         {
           "type": "text",
-          "value": "A transaction account primarily used by businesses and individuals who need to make frequent withdrawals and deposits."
+          "value": "An individual account is a bank account that is owned and used by one person. It is for personal use, not for businesses."
+        },
+        {
+          "type": "text",
+          "value": "Example: Rahul opens a bank account in his name to manage his personal money."
+        },
+        {
+          "type": "list",
+          "items": [
+            "He uses this account for daily usages, utility bills, and for personal usage.",
+            "Since the account is only in his name, he is the only person who can operate it."
+          ]
         },
         {
           "type": "subheading",
-          "value": "Fixed Deposit Account"
+          "value": "Joint Account"
         },
         {
           "type": "text",
-          "value": "An account where money is deposited for a fixed period at a predetermined interest rate."
+          "value": "A joint account is a bank account that is shared by two or more people. All account holders can deposit, withdraw, and manage money together."
+        },
+        {
+          "type": "text",
+          "value": "Example: Amit and Priya, a married couple, open a joint bank account to manage household expenses together."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Both can deposit money, withdraw cash, and pay bills from the same account.",
+            "Since it's a joint account, either of them can operate it."
+          ]
         },
         {
           "type": "subheading",
-          "value": "Recurring Deposit Account"
+          "value": "Dormant Account"
         },
         {
           "type": "text",
-          "value": "An account that allows regular deposits of a fixed amount for a specified period, earning interest at rates similar to fixed deposits."
+          "value": "A dormant account is a bank account that has been inactive for a long time (usually 1 year for savings accounts and 2 years for current accounts). No deposits, withdrawals, or transactions have been made."
+        },
+        {
+          "type": "text",
+          "value": "Example: Ravi opened a savings account but hasn’t used it for over 2 years—no deposits, withdrawals, or transactions."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Since there has been no activity, the bank marks his account as dormant for security reasons."
+          ]
         }
       ]
     },
     {
-      "id": "common-banking-terms",
-      "title": "Common Banking Terms",
+      "id": "payment-systems",
+      "title": "Payment Systems",
       "content": [
-        {
-          "type": "text",
-          "value": "These terms are frequently used in day-to-day banking operations and customer interactions."
-        },
-        {
-          "type": "subheading",
-          "value": "CASA"
-        },
-        {
-          "type": "text",
-          "value": "Current Account Savings Account ratio, representing the proportion of total deposits that are held in current and savings accounts."
-        },
-        {
-          "type": "subheading",
-          "value": "KYC"
-        },
-        {
-          "type": "text",
-          "value": "Know Your Customer, the process of verifying the identity and address of customers to prevent fraud and money laundering."
-        },
         {
           "type": "subheading",
           "value": "NEFT"
         },
         {
           "type": "text",
-          "value": "National Electronic Funds Transfer, a payment system facilitating one-to-one funds transfers between bank accounts."
+          "value": "National Electronic Fund Transfer. Transferring money from one bank account to another. Minimum amount is ₹1 to maximum of ₹10 lakhs, within banking hours, with beneficiary name, account number, and IFSC code."
+        },
+        {
+          "type": "text",
+          "value": "Example: Riya wants to send ₹5,000 to her brother Amit, who has an account in another bank."
+        },
+        {
+          "type": "list",
+          "items": [
+            "She visits the branch and transfers the money using NEFT.",
+            "Within a few hours, the money is credited to Amit’s bank account."
+          ]
         },
         {
           "type": "subheading",
@@ -82,21 +192,211 @@
         },
         {
           "type": "text",
-          "value": "Real Time Gross Settlement, a system where funds transfer takes place in real time between banks."
-        },
-        {
-          "type": "subheading",
-          "value": "IMPS"
+          "value": "Real Time Gross Settlement. Transferring money from one bank account to another. Minimum amount is ₹2 lakhs to maximum of ₹10 lakhs, within banking hours, with beneficiary name, account number, and IFSC code."
         },
         {
           "type": "text",
-          "value": "Immediate Payment Service, an instant interbank electronic fund transfer service available 24/7."
+          "value": "Example: Rahul wants to buy a property and needs to transfer ₹15 lakh to the seller's bank account."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Since the amount is large, he chooses RTGS, which transfers money instantly and is used for high-value transactions (₹2 lakh and above).",
+            "Within bank working hours, the seller receives the money in their bank account."
+          ]
         }
       ]
     },
     {
-      "id": "abbreviations-detailed",
-      "title": "Abbreviations and Detailed Terminology",
+      "id": "financial-concepts",
+      "title": "Financial Concepts",
+      "content": [
+        {
+          "type": "subheading",
+          "value": "Asset"
+        },
+        {
+          "type": "text",
+          "value": "Assets are things you own that have value and can be used to generate money or benefits."
+        },
+        {
+          "type": "text",
+          "value": "Example: Imagine Rahul owns a shop. His assets include the shop building (property), cash in the register, and furniture and equipment inside the shop."
+        },
+        {
+          "type": "subheading",
+          "value": "Liabilities"
+        },
+        {
+          "type": "text",
+          "value": "Liabilities are the money you owe to others."
+        },
+        {
+          "type": "text",
+          "value": "Example: Imagine Rahul runs a shop. His liabilities include a business loan of ₹5 lakh, unpaid rent for the shop, and pending supplier payments for goods."
+        },
+        {
+          "type": "subheading",
+          "value": "Repo Rate"
+        },
+        {
+          "type": "text",
+          "value": "The interest rate at which a central bank (RBI) lends money to commercial banks when banks need funds."
+        },
+        {
+          "type": "text",
+          "value": "Example: A bank borrows ₹10 crore from the RBI at a 6% repo rate to lend to its customers."
+        },
+        {
+          "type": "subheading",
+          "value": "Reverse Repo Rate"
+        },
+        {
+          "type": "text",
+          "value": "The interest rate at which commercial banks deposit excess funds with the RBI for a short period."
+        },
+        {
+          "type": "text",
+          "value": "Example: A bank deposits ₹10 crore with the RBI at a 4% reverse repo rate to earn interest."
+        }
+      ]
+    },
+    {
+      "id": "loan-types",
+      "title": "Loan Types",
+      "content": [
+        {
+          "type": "subheading",
+          "value": "Education Loan"
+        },
+        {
+          "type": "text",
+          "value": "A loan that helps students pay fees. Borrow money from a bank and repay after studies."
+        },
+        {
+          "type": "text",
+          "value": "Example: Priya borrows ₹8 lakh for an MBA and repays in EMIs post-graduation."
+        },
+        {
+          "type": "subheading",
+          "value": "Automobile Loan"
+        },
+        {
+          "type": "text",
+          "value": "A loan to buy a vehicle. Bank loans money and borrower repays with interest."
+        },
+        {
+          "type": "text",
+          "value": "Example: Amit borrows ₹1 lakh to buy a bike and repays in monthly EMIs."
+        },
+        {
+          "type": "subheading",
+          "value": "Personal Loan"
+        },
+        {
+          "type": "text",
+          "value": "Money borrowed for any purpose, repaid in EMIs with interest."
+        },
+        {
+          "type": "text",
+          "value": "Example: Rohit borrows ₹2 lakh for a vacation and repays in monthly installments."
+        },
+        {
+          "type": "subheading",
+          "value": "Home Loan"
+        },
+        {
+          "type": "text",
+          "value": "A loan to buy property, repaid over many years in EMIs."
+        },
+        {
+          "type": "text",
+          "value": "Example: Rahul borrows ₹40 lakh for a flat and repays over 20 years."
+        },
+        {
+          "type": "subheading",
+          "value": "Agricultural Loan"
+        },
+        {
+          "type": "text",
+          "value": "Money given to farmers for farming activities, repaid after harvest."
+        },
+        {
+          "type": "text",
+          "value": "Example: Farmer Ramesh borrows ₹1 lakh for seeds and equipment, repays post-harvest."
+        },
+        {
+          "type": "subheading",
+          "value": "Jewel Loan/Gold Loan"
+        },
+        {
+          "type": "text",
+          "value": "A loan where you pledge gold as collateral and get money."
+        },
+        {
+          "type": "text",
+          "value": "Example: Meera pledges ₹60,000 of gold to borrow ₹50,000 and repays in EMIs to get gold back."
+        }
+      ]
+    },
+    {
+      "id": "other-terminologies",
+      "title": "Other Terminologies",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "Cash Flow – Movement of money in and out of your account.",
+            "Capital – Money or resources used to make more money.",
+            "Tenure – Period over which a loan is repaid.",
+            "Debt – Money borrowed that must be repaid.",
+            "Interest – Extra money paid for borrowing or earned on savings.",
+            "Interest Rate – Percentage charged for borrowing or earned on savings.",
+            "Variable Rate – Interest rate that changes with market conditions.",
+            "Principal Amount – Original sum borrowed or invested.",
+            "Total Amount – Sum after adding interest to principal.",
+            "Payment – Money given for goods or services.",
+            "Repayment – Returning borrowed money in installments.",
+            "Know Your Customer (KYC) – Document verification process (Aadhar, PAN, address).",
+            "Account Holder – Owner of the account, responsible for funds and liabilities.",
+            "Passbook – Booklet recording account transactions.",
+            "Minimum Balance – Required monthly balance maintenance.",
+            "Available Balance – Funds available for withdrawal.",
+            "Deposit – Adding money to an account.",
+            "Withdrawal – Taking money out of an account.",
+            "Transaction – Any movement of money in or out.",
+            "Bank Statement – Summary of transactions over a period.",
+            "Cheque – Written order for bank payment.",
+            "Cancelled Cheque – Cheque marked “CANCELLED” to prevent use.",
+            "Cheque Bounce – Dishonored cheque due to insufficient funds or mismatch.",
+            "Missing Payment – A payment that did not reach the receiver.",
+            "Debit Card/ATM Card – Card to access funds from SB/CB accounts.",
+            "Credit Card – Card to borrow from bank up to a limit, repay with interest.",
+            "Credit Limit – Maximum borrowable on a credit card.",
+            "Credit Score/CIBIL Score – Number (300–900) indicating creditworthiness.",
+            "Nominee – Person designated to receive account funds after account holder’s death.",
+            "Beneficiary – Recipient of funds or benefits.",
+            "Payee – Entity receiving payment.",
+            "Payor – Entity making payment.",
+            "DD/Demand Draft – Bank‑guaranteed transfer instrument.",
+            "OD/Overdraft – Allows withdrawal beyond balance up to a limit with interest.",
+            "Loan Contract – Written loan agreement detailing terms.",
+            "Service Charge – Fee charged by banks for services.",
+            "Late Charge/Late Fee – Penalty for late payment.",
+            "Loan Fee – Fee charged for loan processing.",
+            "Processing Fee – Specific loan application fee.",
+            "Foreclosure/Pre‑closure – Paying off full loan early.",
+            "Prepayment – Partial early loan repayment to reduce interest or tenure.",
+            "Refund – Getting money back after return or cancellation.",
+            "Insurance – Financial protection promise against specified events.",
+            "Online/Electronic Banking – Internet‑based account management."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "abbreviations-acronyms",
+      "title": "Abbreviations/Acronyms",
       "content": [
         {
           "type": "subheading",
@@ -119,19 +419,14 @@
             "SB/SA – Savings Bank Account",
             "CB/CA – Current Bank Account",
             "UPI – Unified Payments Interface",
-            "EFT – Electronic Fund Transfer"
+            "EFT – Electronic Fund Transfer",
+            "NEFT – National Electronic Funds Transfer",
+            "RTGS – Real‑Time Gross Settlement",
+            "IMPS – Immediate Payment Service"
           ]
-        },
-        {
-          "type": "subheading",
-          "value": "Detailed Explanations"
-        },
-        {
-          "type": "text",
-          "value": "Additional key terms include: 'Repo rate'—the rate at which RBI lends to commercial banks; 'Liquidity'—the ease of converting assets into cash; 'Variable rate'—an interest rate that fluctuates with market conditions; and 'Prepayment'—paying off a part of the loan early to reduce interest. These explanations help clarify how each term impacts banking operations and customer transactions."
         }
       ]
     }
   ],
-  "source": "Merged from bankTerminologies.json and 00 Bank Terminologies.pdf"
+  "source": "Provided content"
 }
