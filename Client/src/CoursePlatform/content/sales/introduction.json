@@ -79,29 +79,11 @@
             "Practicing active listening",
             "Finding an emotional connection",
             "Understanding the product",
-            "Exhibiting excellent interpersonal skills",
+            "Having excellent interpersonal skills",
             "Approaching sales as a service",
+            "Being likeable and trustworthy",
             "Being honest and trustworthy",
             "Building trust by asking questions"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "why-sales-matter",
-      "title": "Why Sales Matter",
-      "content": [
-        {
-          "type": "text",
-          "value": "Sales are the lifeblood of any business. Without effective sales processes, even the best products or services cannot reach their target market."
-        },
-        {
-          "type": "list",
-          "items": [
-            "Revenue Generation: Direct contribution to a company's financial health",
-            "Market Feedback: Provides valuable insights from customer interactions",
-            "Brand Building: Shapes customer perceptions of the company",
-            "Competitive Advantage: Differentiates the business from its competitors"
           ]
         }
       ]

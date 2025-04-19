@@ -43,7 +43,7 @@
           "value": "Pronouns are words used in place of nouns."
         },
         {
-          "type": "text",
+          "type": "example",
           "value": "Examples: he, she, it, they, this, that."
         },
         {
@@ -149,11 +149,11 @@
           "value": "A preposition shows the relationship between a noun (or pronoun) and other words in a sentence."
         },
         {
-          "type": "text",
+          "type": "example",
           "value": "Examples: on, in, under, behind, between."
         },
         {
-          "type": "text",
+          "type": "example",
           "value": "Sentence Example: The book is on the table."
         }
       ]
@@ -189,11 +189,11 @@
           "value": "An interjection expresses sudden emotion."
         },
         {
-          "type": "text",
+          "type": "example",
           "value": "Examples: Wow! Ouch! Oh!"
         },
         {
-          "type": "text",
+          "type": "example",
           "value": "Sentence Example: Wow! That's an amazing view!"
         }
       ]

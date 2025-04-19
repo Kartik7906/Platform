@@ -12,7 +12,11 @@
         },
         {
           "type": "text",
-          "value": "Used for current actions. Example: She writes a book. He plays cricket."
+          "value": "Used for current actions."
+        },
+        {
+          "type": "example",
+          "value": "Example: She writes a book. He plays cricket."
         },
         {
           "type": "subheading",
@@ -20,7 +24,11 @@
         },
         {
           "type": "text",
-          "value": "Indicates an action that is ongoing at the present time. Example: She is writing a book."
+          "value": "Indicates an action that is ongoing at the present time."
+        },
+        {
+          "type": "example",
+          "value": "Example: She is writing a book."
         },
         {
           "type": "subheading",
@@ -28,7 +36,11 @@
         },
         {
           "type": "text",
-          "value": "Used when the action started in the past but continues or has consequences in the present. Example: She has written a book."
+          "value": "Used when the action started in the past but continues or has consequences in the present."
+        },
+        {
+          "type": "example",
+          "value": "Example: She has written a book."
         },
         {
           "type": "subheading",
@@ -36,7 +48,11 @@
         },
         {
           "type": "text",
-          "value": "Used when the action started in the past and is still ongoing. Example: She has been writing a book for two hours."
+          "value": "Used when the action started in the past and is still ongoing."
+        },
+        {
+          "type": "example",
+          "value": "Example: She has been writing a book for two hours."
         }
       ]
     },

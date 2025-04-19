@@ -26,7 +26,15 @@
         },
         {
           "type": "text",
-          "value": "Telemarketing involves calling customers to create interest in a product or service by providing detailed information. It helps in identifying promising leads."
+          "value": "Telemarketing will call the customer to create an interest in the product or services with detailed information."
+        },
+        {
+          "type": "text",
+          "value": "Telemarketing helps tele-callers by identifying promising leads for proper sales."
+        },
+        {
+          "type": "example",
+          "value": "Example: A bank Telemarketing person calls customers to inform them of the new credit card with benefits and gather the interest of the customer."
         },
         {
           "type": "subheading",
@@ -34,122 +42,295 @@
         },
         {
           "type": "text",
-          "value": "Telesales focuses on closing sales over the phone by engaging in one-on-one conversations with potential buyers."
+          "value": "Telesales focuses on making sales to customers over the phone."
+        },
+        {
+          "type": "text",
+          "value": "Sales representatives engage in one-on-one conversations with potential buyers, presenting products or services and closing deals."
+        },
+        {
+          "type": "example",
+          "value": "Example: Telesales Person of the bank calls the interested customer and sells the new credit card."
         },
         {
           "type": "subheading",
           "value": "Direct Sales"
         },
         {
-          "type": "text",
-          "value": "Direct sales (or in-person sales) involve meeting customers face-to-face, often after an initial tele-calling contact, to complete the sale."
-        },
-        {
           "type": "list",
           "items": [
-            "Method: Telesales uses voice communication, while direct sales involve in-person interaction.",
-            "Sales Process: Telesales generally has shorter, quick calls compared to longer, detailed meetings in direct sales.",
-            "Product Demonstration: In telesales, products are explained verbally, whereas in direct sales, products can be physically shown."
+            "Calling the existing customer and target customer for purchasing another product",
+            "Direct sales are sales that occur between a brand and the end-user without a middleman or distributor."
           ]
+        },
+        {
+          "type": "example",
+          "value": "Example: A sales person or field officer of a bank will reach the customer in person in their place or at the bank and sell the credit card."
         }
       ]
     },
     {
       "id": "customer-interaction",
-      "title": "Customer Interaction and Service",
+      "title": "Customer Service",
       "content": [
         {
-          "type": "text",
-          "value": "Tele-callers not only focus on making sales but also ensure customer satisfaction by addressing queries, providing product information, and collecting feedback. They generate leads through pre-sales calls and maintain records through detailed reporting."
+          "type": "list",
+          "items": [
+            "The tele-caller will call the existing customer or purchased customer to make sure that they are satisfied with the product or services.",
+            "Tele-caller also informs the customer about the new offers based on the customer’s needs."
+          ]
+        },
+        {
+          "type": "example",
+          "value": "Example: The customer calls the tele-caller for complaints and services they require."
         }
       ]
     },
     {
-      "id": "frameworks-and-approaches",
-      "title": "Sales Frameworks and Approaches",
+      "id": "Report",
+      "title": "Report",
       "content": [
-        {
-          "type": "text",
-          "value": "Several structured frameworks help guide tele-calling processes. These include:"
-        },
         {
           "type": "list",
           "items": [
-            "AIDA Model (Attention, Interest, Desire, Action)",
-            "SPIN Selling (Situation, Problem, Implication, Need-Payoff)",
-            "BANT Framework (Budget, Authority, Need, Timing)",
-            "FAB Framework (Feature, Advantage, Benefit)"
+            "Tele-callers will also create a report and update their activities.",
+            "The report contains the number of calls, leads, customers, sales, and so on.",
+            "This report helps show how much revenue is generated for the company."
+          ]
+        },
+        {
+          "type": "example",
+          "value": "Example: The salesperson must create their own report for the daily report submission or future reference."
+        }
+      ]
+    },
+    {
+      "id": "Pre-Sales",
+      "title": "Pre-Sales",
+      "content": [
+        {
+          "type": "text",
+          "value": "Contacting the customer before the sales is called pre-sales,"
+        },
+        {
+          "type": "example",
+          "value": "Example: Marketing the new product to the customer to create an interest."
+        }
+      ]
+    },
+    {
+      "id": "Lead generation",
+      "title": "Lead generation",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "Generally, they contact potential and existing customers over the phone to inform them of their company’s new products or services and their offers.",
+            "Tele-callers follow a script to qualify prospects, who are ready to buy or may likely purchase their offer.",
+            "After generating the lead, pass on the lead details to the field sales team to work faster and increase the conversion rate."
           ]
         }
       ]
     },
     {
-      "id": "negotiation-objection-handling",
-      "title": "Negotiation and Objection Handling",
+      "id": "Customer Pain Points",
+      "title": "Customer Pain Points",
       "content": [
         {
           "type": "text",
-          "value": "Effective tele-calling involves handling objections, negotiating terms, and closing deals. Key tactics include building rapport, active listening, and clear, honest communication."
+          "value": "It is a problem or frustration a customer experiences when interacting with a product or service."
         },
-        {
-          "type": "list",
-          "items": [
-            "Active Listening and Empathy",
-            "Clear Explanation of Product Benefits",
-            "Handling Objections Calmly",
-            "Negotiation Skills and Decision Making"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "conversation-flow",
-      "title": "Best Practices and Conversation Flow",
-      "content": [
-        {
-          "type": "text",
-          "value": "Tele-callers follow a structured flow to ensure effective communication. This includes greetings, understanding customer behavior, product explanation, addressing customer pain points, and following up. Best practices also cover handling common scenarios such as dealing with angry customers, scheduling callbacks, and managing objections."
-        },
-        {
-          "type": "list",
-          "items": [
-            "Introduce yourself and your company politely",
-            "State the purpose of the call clearly",
-            "Ask open-ended questions to engage the customer",
-            "Handle objections with empathy and professionalism",
-            "Schedule follow-up calls as needed"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "skills-needed",
-      "title": "Skills Needed for Tele-callers",
-      "content": [
         {
           "type": "subheading",
-          "value": "Communication Skills"
+          "value": "Types of Customer Pain Points"
         },
         {
           "type": "list",
           "items": [
-            "Voice Modulation",
-            "Active Listening",
-            "Clear Articulation",
-            "Questioning Skills"
+            "Financial pain points (e.g., high cost, hidden fees)",
+            "Process pain points (e.g., long wait times, complicated processes)",
+            "Support pain points (e.g., poor customer service)"
           ]
         },
         {
           "type": "subheading",
-          "value": "Persuasion and Negotiation"
+          "value": "How to Address Customer Pain Points"
         },
         {
           "type": "list",
           "items": [
-            "Benefit Selling",
-            "Objection Handling",
-            "Closing Techniques",
-            "Value Demonstration"
+            "Start the conversation by showing genuine curiosity in the other person. Begin with small talk to look for shared interests or common ground.",
+            "Asking open-ended questions encourages deeper conversations and demonstrates that you’re actively listening. You’ll quickly build mutual trust and lay the foundation for a strong relationship.",
+            "Listening actively to customers to find the type of point.",
+            "Providing tailored solutions by educating customers about product benefits that will provide the best solution to their pain points"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Frameworks",
+      "title": "Frameworks",
+      "content": [
+        {
+          "type": "text",
+          "value": "The framework in sales refers to a structured approach or methodology that sales professionals use to guide their sales process, including identifying potential customers, qualifying leads, presenting solutions, handling objections, and closing deals"
+        },
+        {
+          "type": "subheading",
+          "value": "AIDA Model: Attention, Interest, Desire, and Action for structuring sales pitches."
+        },
+        {
+          "type": "example",
+          "value": "Example: Selling a new mobile phone to a customer"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Attention – Introducing the new XYZ Phone with a stunning camera and long battery life! (Grab interest with a bold statement)",
+            "Interest – It has a 108MP camera, a 2-day battery, and a super-fast processor—perfect for work and play! (Highlight key features)",
+            "Desire – Imagine capturing pro-level photos, never worrying about battery life, and enjoying ultra-smooth gaming. (Make them feel the need)",
+            "Action – Order now and get a 20% discount + free wireless earbuds! Limited stock available! (Create urgency and a call to action)"
+          ]
+        },
+        {
+          "type": "subheading",
+          "value": "SPIN Selling: Situation, Problem, Implication, and Need-Payoff questioning technique."
+        },
+        {
+          "type": "example",
+          "value": "Example: Selling a new credit card to the customer."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Situation: Do you frequently travel or shop online? (Understanding the customer's lifestyle)",
+            "Problem: Do you ever face high transaction fees or struggle with rewards on your current card? (Identifying their pain points)",
+            "Implication: If you’re not earning cashback or travel points, you’re losing money on every purchase. (Highlighting the downside of not switching)",
+            "Need-Payoff: Our XYZ Credit Card gives 5% cashback on shopping and free airport lounge access—wouldn’t that save you money and improve your experience? (Presenting your card as the solution)"
+          ]
+        },
+        {
+          "type": "subheading",
+          "value": "BANT Framework: Budget, Authority, Need, and Timing for lead qualification."
+        },
+        {
+          "type": "example",
+          "value": "Example: Selling a business loan"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Budget – How much funding are you looking for? (Checking affordability)",
+            "Authority – Are you the one making the financial decisions for your company? (Ensuring you're speaking to the right person)",
+            "Need – Are you facing cash flow issues or planning business expansion? (Understanding their pain point)",
+            "Timeline – Are you looking for funds immediately, or planning for the next quarter? (Knowing when they will buy)"
+          ]
+        },
+        {
+          "type": "subheading",
+          "value": "FAB Framework: Feature, Advantage, and Benefits."
+        },
+        {
+          "type": "example",
+          "value": "Example: Selling a water purifier."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Feature – This purifier has a 7-stage filtration system. (What it has)",
+            "Advantage – It removes 99.9% of bacteria and heavy metals from water. (Why it’s better)",
+            "Benefit – Your family gets pure, safe drinking water, reducing health risks. (How it helps)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "During Sales",
+      "title": "During Sales",
+      "content": [
+        {
+          "type": "text",
+          "value": "The process of handling objections of the customer, negotiating, and closing the sale with the customers."
+        },
+        {
+          "type": "example",
+          "value": "Example: Price negotiation, building trust with the customer and making them purchase."
+        }
+      ]
+    },
+    {
+      "id": "Objection Handling:",
+      "title": "Objection Handling:",
+      "content": [
+        {
+          "type": "subheading",
+          "value": "Building Rapport"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Active listening: Truly paying attention to what the other person is saying and responding thoughtfully.",
+            "Nonverbal communication: Using body language, facial expressions, and non-verbal cues like eye contact to show engagement.",
+            "Common ground: Finding shared interests or experiences to build a connection.",
+            "Genuine interest: Demonstrating authentic curiosity about the other person’s point of view and experiences."
+          ]
+        },
+        {
+          "type": "subheading",
+          "value": "Educating the customer"
+        },
+        {
+          "type": "list",
+          "items": ["Provide a clear explanation of the product and services"]
+        },
+        {
+          "type": "subheading",
+          "value": "Building Trust"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Don’t make false promises about the product or services.",
+            "If a customer doesn't trust you, they may never buy from you again. But if they trust you, they will keep coming back, and both of you will benefit."
+          ]
+        },
+        {
+          "type": "subheading",
+          "value": "Building Trust with Customers"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Clear and honest communication",
+            "Providing consistent customer support",
+            "Delivering on promises and commitments",
+            "Suggest the products based on customer needs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Negotiation Skills",
+      "title": "Negotiation Skills",
+      "content": [
+        {
+          "type": "subheading",
+          "value": "Communication"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Communication is the process of sharing information and ideas between people or groups."
+          ]
+        },
+        {
+          "type": "subheading",
+          "value": "Active Listening"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Active listening is a communication technique that involves paying close attention to what someone is saying, understanding what they're saying, and responding."
           ]
         },
         {
@@ -159,29 +340,235 @@
         {
           "type": "list",
           "items": [
-            "Empathy",
-            "Patience",
-            "Resilience",
-            "Adaptability"
+            "It is the ability to control your emotions and recognize others’ feelings. If you are unsatisfied with the current negotiation, ask for a break so you and the other party can return with refreshed perspectives."
+          ]
+        },
+        {
+          "type": "subheading",
+          "value": "Patience"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Patience refers to the ability to calmly wait and understand a customer's needs without rushing them. It is a crucial quality for successful sales interactions, being patient with potential clients throughout the sales process"
+          ]
+        },
+        {
+          "type": "subheading",
+          "value": "Decision making"
+        },
+        {
+          "type": "list",
+          "items": [
+            "It is necessary to compromise during a bargaining arrangement. Keep in mind that your decision may never affect your job and your company."
+          ]
+        },
+        {
+          "type": "subheading",
+          "value": "Adaptability"
+        },
+        {
+          "type": "list",
+          "items": [
+            "A salesperson's ability to adjust their approach, communication style, and strategies based on changing market conditions and customer preferences."
+          ]
+        },
+        {
+          "type": "subheading",
+          "value": "Rapport building"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Building rapport means creating a positive connection with someone by establishing mutual trust, understanding their needs and making them feel comfortable and open to interacting with you."
+          ]
+        },
+        {
+          "type": "subheading",
+          "value": "Problem solving"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Problem-solving in sales means figuring out what issues or challenges a customer is facing and then showing them how your product or service can directly solve those problems."
+          ]
+        },
+        {
+          "type": "subheading",
+          "value": "Know your limits"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Understanding the limit of stressing the product over the customer."
+          ]
+        },
+        {
+          "type": "subheading",
+          "value": "Know your opposite person in tele-calling"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Based on the response from the customer, we need to ensure we do not waste any potential lead."
+          ]
+        },
+        {
+          "type": "subheading",
+          "value": "Language"
+        },
+        {
+          "type": "list",
+          "items": [
+            "We need to use comfortable language and words that are familiar to the customer."
+          ]
+        },
+        {
+          "type": "subheading",
+          "value": "Know when to walk out"
+        },
+        {
+          "type": "list",
+          "items": [
+            "We need to understand customer concerns so that we can prioritize or walk out in their needed situation."
+          ]
+        },
+        {
+          "type": "subheading",
+          "value": "Time-bound"
+        },
+        {
+          "type": "list",
+          "items": [
+            "We need to fix the time-bound for all the calls. Tele-callers must know when to start the call and when to close the call."
+          ]
+        },
+        {
+          "type": "subheading",
+          "value": "Time management"
+        },
+        {
+          "type": "list",
+          "items": [
+            "How to: “Set clear goals, prioritize tasks, plan your day, Eliminate time wasters, Use time management tools."
           ]
         }
       ]
     },
     {
-      "id": "fundamentals-advantages",
-      "title": "Fundamentals and Advantages of Tele-calling",
+      "id": "Dispute Resolution",
+      "title": "Dispute Resolution",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "Tele-callers must have good dispute resolution skills. Since they always speak with the customer which helps to handle the conflicts quickly before it gets bigger issues.",
+            "Tele-caller handles the conflicts and resolves in the early stage."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Common Causes of Conflict",
+      "title": "Common Causes of Conflict",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "False promise on product, time, and price",
+            "Pricing disagreements",
+            "Product/service expectations mismatch",
+            "Miscommunication",
+            "Delivery or service delays"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Post Sales",
+      "title": "Post Sales",
       "content": [
         {
           "type": "text",
-          "value": "Telecalling can involve inbound calls (handling customer inquiries) or outbound calls (proactively reaching out to prospects). It is an effective and cost-efficient method to expand geographical reach, track performance metrics, and increase customer interactions."
+          "value": "Tele-caller calls the existing customer to collect the feedback or any other help based on the purchased product."
+        },
+        {
+          "type": "example",
+          "value": "Example: Tele-caller calls the customer who purchased the credit card, and gathers the details about the satisfaction and complaints if any, and provides a solution"
+        },
+        {
+          "type": "subheading",
+          "value": "Customer Service"
         },
         {
           "type": "list",
           "items": [
-            "Cost-Effective",
-            "Measurable Results",
-            "Wide Geographical Reach",
-            "Time Efficiency"
+            "The tele-caller will call the existing customer or purchased customer to make sure that they are satisfied with the product or services.",
+            "Tele-caller also informs the customer about the new offers based on the customer’s need.",
+            "Tele-callers also call the purchased customers for feedback about the purchased product.",
+            "Tele-callers also collect the details of the interested person from the existing customer."
+          ]
+        },
+        {
+          "type": "subheading",
+          "value": "Dispute Resolution"
+        },
+        {
+          "type": "text",
+          "value": "In post-sales, when the customer is not satisfied with the product they will dispute, tele-callers must have good dispute resolution skills to handle the conflicts quickly before getting into bigger issues."
+        },
+        {
+          "type": "subheading",
+          "value": "Skills needed as a tele-caller"
+        },
+        {
+          "type": "list",
+          "items": [
+            "To become a successful tele-caller, you must have good communication skills.",
+            "Tele-callers must quickly read the voice of the customer to whom they are speaking and adjust their voice to create more rapport.",
+            "They need to understand the customer’s language and explain in easily understandable terms.",
+            "Not only speaking, tele-callers need to have more patience to listen to customer concerns or needs."
+          ]
+        },
+        {
+          "type": "subheading",
+          "value": "Interpersonal skills"
+        },
+        {
+          "type": "text",
+          "value": "Interpersonal skills in sales that help you interact with clients and build relationships."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Selling the product on a phone, requires the ability to create a rapport with the customer, without seeing them.",
+            "This involves communication, active listening, patience, and empathy to convert the leads."
+          ]
+        },
+        {
+          "type": "subheading",
+          "value": "Knowledge about telephone or computer"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Tele-callers should have working knowledge of telephone or computer systems.",
+            "Ability to learn the CRM tools quickly.",
+            "And minimum computer knowledge which is required for their duties.",
+            "Tele-callers must have in-depth knowledge and understanding of products and services.",
+            "They need to explain the benefits to the customer and convince them to buy the product from the company.",
+            "To do these tele-callers need to be quick learners based on this, they can close the leads."
+          ]
+        },
+        {
+          "type": "subheading",
+          "value": "Tele-caller’s attitude"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Must have a cool attitude.",
+            "Sometimes the customer might not be interested to speak with you, so unable to close the lead, which generally leads to a tense situation. You must be able to handle the rejections without affecting your job."
           ]
         }
       ]
